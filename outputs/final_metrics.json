@@ -1,0 +1,7 @@
+{
+    "selected_model": "KNN",
+    "accuracy": 0.9638888888888889,
+    "macro_precision": 0.9645896987673304,
+    "macro_recall": 0.9637215787215787,
+    "macro_f1": 0.9634399725952825
+}
